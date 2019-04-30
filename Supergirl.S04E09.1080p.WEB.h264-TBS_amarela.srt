@@ -1,0 +1,2699 @@
+1
+00:00:00,001 --> 00:00:03,165
+<font color=#FFFF00><i>Meu nome é John Deegan
+e eu sou de Gotham,</i></font>
+
+2
+00:00:03,167 --> 00:00:06,312
+<font color=#FFFF00><i>uma cidade
+que precisa de heróis.</i></font>
+
+3
+00:00:06,314 --> 00:00:08,502
+<font color=#FFFF00><i>Como médico
+no Asilo Arkham,</i></font>
+
+4
+00:00:08,504 --> 00:00:12,897
+<font color=#FFFF00><i>pude proteger a cidade
+dos criminosos insanos.</i></font>
+
+5
+00:00:13,073 --> 00:00:16,368
+<font color=#FFFF00><i>Mas o mundo
+não entendeu meus métodos,</i></font>
+
+6
+00:00:16,370 --> 00:00:18,426
+<font color=#FFFF00><i>então trabalhei secretamente
+até o dia</i></font>
+
+7
+00:00:18,428 --> 00:00:21,928
+<font color=#FFFF00><i>em que um ser cósmico
+reconheceu meu potencial</i></font>
+
+8
+00:00:21,930 --> 00:00:25,306
+<font color=#FFFF00><i>e me deu a chance
+de ser algo maior.</i></font>
+
+9
+00:00:25,994 --> 00:00:28,147
+<font color=#FFFF00><i>Alguém melhor.</i></font>
+
+10
+00:00:28,519 --> 00:00:32,115
+<font color=#FFFF00><i>Agora, eu sou o Superman!</i></font>
+
+11
+00:00:32,421 --> 00:00:34,488
+<font color=#FFFF00><i>Anteriormente
+em Arrow e Flash...</i></font>
+
+12
+00:00:34,490 --> 00:00:37,871
+<font color=#FFFF00>O mundo pensa que você
+é Oliver Queen e eu Barry Allen,</font>
+
+13
+00:00:37,873 --> 00:00:40,406
+<font color=#FFFF00>e eu gostaria muito
+de saber o porquê.</font>
+
+14
+00:00:41,541 --> 00:00:44,538
+<font color=#FFFF00><i>- Então, qual o próximo passo?</i>
+- Vamos a Gotham City.</font>
+
+15
+00:00:44,540 --> 00:00:46,652
+<font color=#FFFF00><i>Quem é você?
+Por que está nos ajudando?</i></font>
+
+16
+00:00:46,654 --> 00:00:48,544
+<font color=#FFFF00>Kane, Kate Kane.</font>
+
+17
+00:00:51,058 --> 00:00:53,038
+<font color=#FFFF00><i>Ele se chama de "Monitor".</i></font>
+
+18
+00:00:53,040 --> 00:00:55,764
+<font color=#FFFF00><i>Ele esteve usando
+o Livro do Destino</i></font>
+
+19
+00:00:55,766 --> 00:00:59,216
+<font color=#FFFF00><i>pelo multiverso
+para testar diferentes Terras.</i></font>
+
+20
+00:00:59,218 --> 00:01:02,100
+<font color=#FFFF00>A crise é iminente.
+Alguém está vindo.</font>
+
+21
+00:01:02,102 --> 00:01:05,100
+<font color=#FFFF00>Uma pessoa muito mais poderosa
+do que eu.</font>
+
+22
+00:01:05,399 --> 00:01:07,103
+<font color=#FFFF00>A intenção era prepará-los.</font>
+
+23
+00:01:09,345 --> 00:01:10,945
+<font color=#FFFF00>GÊMEOS DO GATILHO
+PROCURADOS</font>
+
+24
+00:01:10,947 --> 00:01:13,164
+<font color=#FFFF00>Ele fez de novo.
+Reescreveu a realidade.</font>
+
+25
+00:01:18,484 --> 00:01:20,578
+<font color=#FFFF00><i>Superman!</i></font>
+
+26
+00:01:29,829 --> 00:01:32,694
+<font color=#FFFF00>Não há um lugar
+onde possam se esconder de mim.</font>
+
+27
+00:01:33,722 --> 00:01:35,994
+<font color=#FFFF00>- Acabou.
+- Do que está falando?</font>
+
+28
+00:01:35,996 --> 00:01:39,760
+<font color=#FFFF00>- Clark, somos Barry e Oliver.
+- Eu sei quem vocês são.</font>
+
+29
+00:01:39,831 --> 00:01:42,090
+<font color=#FFFF00>Sua confusão é comigo.</font>
+
+30
+00:01:43,060 --> 00:01:44,460
+<font color=#FFFF00>Deegan.</font>
+
+31
+00:01:45,076 --> 00:01:48,835
+<font color=#FFFF00>- O Monitor devolveu o Livro?
+- E mostrou como usá-lo direito.</font>
+
+32
+00:01:48,837 --> 00:01:52,203
+<font color=#FFFF00>Não pode apenas se fazer herói.
+Não funciona assim.</font>
+
+33
+00:01:52,208 --> 00:01:55,014
+<font color=#FFFF00>Não mesmo?
+Você foi atingido por um raio.</font>
+
+34
+00:01:55,016 --> 00:01:58,608
+<font color=#FFFF00>Eu recebi um Livro
+de um poder superior.</font>
+
+35
+00:01:58,610 --> 00:02:00,936
+<font color=#FFFF00>Ambos foram
+atos aleatórios do acaso.</font>
+
+36
+00:02:00,938 --> 00:02:05,827
+<font color=#FFFF00>Mas este...
+é o meu destino.</font>
+
+37
+00:02:05,829 --> 00:02:08,855
+<font color=#FFFF00>Muito mais do que o seu foi
+tornar-se o Flash.</font>
+
+38
+00:02:08,857 --> 00:02:11,954
+<font color=#FFFF00>Pessoas não se tornam heróis
+pelas circunstâncias,</font>
+
+39
+00:02:11,956 --> 00:02:14,834
+<font color=#FFFF00>tornam-se heróis
+apesar das circunstâncias!</font>
+
+40
+00:02:15,666 --> 00:02:19,335
+<font color=#FFFF00>- Você é só uma imitação barata.
+- Sou tudo, menos barato.</font>
+
+41
+00:02:26,471 --> 00:02:29,247
+<font color=#FFFF00>E esperem para ver
+outras mudanças que fiz.</font>
+
+42
+00:02:29,249 --> 00:02:31,291
+<font color=#FFFF00>Às suas famílias,
+aos seus amigos.</font>
+
+43
+00:02:31,293 --> 00:02:33,569
+<font color=#FFFF00>Não há porto seguro
+para vocês.</font>
+
+44
+00:02:33,571 --> 00:02:38,010
+<font color=#FFFF00>Este mundo não é mais de vocês.
+Ele é meu!</font>
+
+45
+00:02:47,560 --> 00:02:49,625
+<font color=#FFFF00>Barry, tenho uma ideia.</font>
+
+46
+00:02:53,131 --> 00:02:56,353
+<font color=#FFFF00>- Idiota, sou à prova de balas.
+- Eu sei.</font>
+
+47
+00:03:03,557 --> 00:03:07,664
+<font color=#FFFF00>Quer ser o herói da Terra?
+Salve as crianças ou nos pare.</font>
+
+48
+00:03:07,666 --> 00:03:10,942
+<font color=#FFFF00>A escolha é sua, Superman.</font>
+
+49
+00:03:28,003 --> 00:03:29,703
+<font color=#FFFF00><b>| ManiacS |
+Haters Gonna Hate!</b></font>
+
+50
+00:03:29,705 --> 00:03:31,505
+<font color=#FFFF00><b>Supergirl 4.09
+Elseworlds, Part 3</b></font>
+
+51
+00:03:31,507 --> 00:03:33,307
+<font color=#FFFF00><b>Darrow
+crolzinha
+AriBoth
+Allanmnzs</b></font>
+
+52
+00:03:33,309 --> 00:03:35,109
+<font color=#FFFF00><b>Bonafé
+KryptonGrl
+Vinícius
+LauraA</b></font>
+
+53
+00:03:36,686 --> 00:03:38,885
+<font color=#FFFF00>Ser mau faz eu me sentir mal,
+cara.</font>
+
+54
+00:03:38,887 --> 00:03:41,499
+<font color=#FFFF00>Aquilo foi inofensivo,
+cairia no estacionamento.</font>
+
+55
+00:03:41,501 --> 00:03:43,651
+<font color=#FFFF00>Mas só por fazer
+aquilo de propósito,</font>
+
+56
+00:03:43,653 --> 00:03:45,331
+<font color=#FFFF00>sinto que vou vomitar...</font>
+
+57
+00:03:46,352 --> 00:03:48,094
+<font color=#FFFF00>Não, estou bem.</font>
+
+58
+00:03:48,096 --> 00:03:50,729
+<font color=#FFFF00>Precisamos descobrir
+a extensão dessa mudança,</font>
+
+59
+00:03:50,731 --> 00:03:52,866
+<font color=#FFFF00>e precisamos sair das ruas.
+Vamos.</font>
+
+60
+00:03:52,868 --> 00:03:56,958
+<font color=#FFFF00>Não está saindo nada.
+Espere, eu tenho um plano!</font>
+
+61
+00:03:59,238 --> 00:04:00,638
+<font color=#FFFF00>Meus parabéns, senhor!</font>
+
+62
+00:04:00,640 --> 00:04:03,358
+<font color=#FFFF00>Segurou o guindaste
+como se não pesasse nada.</font>
+
+63
+00:04:03,360 --> 00:04:05,181
+<font color=#FFFF00>Muito impressionante.</font>
+
+64
+00:04:06,586 --> 00:04:09,862
+<font color=#FFFF00>Os fugitivos escaparam!</font>
+
+65
+00:04:10,451 --> 00:04:13,498
+<font color=#FFFF00>Senhor, temos certeza
+que os levará à justiça.</font>
+
+66
+00:04:13,500 --> 00:04:15,866
+<font color=#FFFF00>Ninguém pode escapar
+do Superman.</font>
+
+67
+00:04:17,326 --> 00:04:20,846
+<font color=#FFFF00>- Acha mesmo?
+- O senhor é muito poderoso.</font>
+
+68
+00:04:22,322 --> 00:04:24,315
+<font color=#FFFF00>Vocês têm razão.</font>
+
+69
+00:04:26,732 --> 00:04:28,132
+<font color=#FFFF00>Senhor, é no tubo.</font>
+
+70
+00:04:28,134 --> 00:04:30,483
+<font color=#FFFF00>Deve ser Cobaia 1,
+fez barulho a manhã toda.</font>
+
+71
+00:04:30,485 --> 00:04:32,238
+<font color=#FFFF00>- Eu cuido disso.
+- Não!</font>
+
+72
+00:04:32,293 --> 00:04:35,196
+<font color=#FFFF00>Continue atrás de Allen e Queen.
+Eu cuido dela.</font>
+
+73
+00:04:50,831 --> 00:04:53,349
+<font color=#FFFF00>Conheço o homem
+que usa esse símbolo.</font>
+
+74
+00:04:54,571 --> 00:04:55,971
+<font color=#FFFF00>Não é você.</font>
+
+75
+00:04:57,708 --> 00:04:59,143
+<font color=#FFFF00>Você não é o Superman.</font>
+
+76
+00:04:59,145 --> 00:05:02,252
+<font color=#FFFF00>E ainda assim,
+sou tudo que você já foi.</font>
+
+77
+00:05:02,941 --> 00:05:06,412
+<font color=#FFFF00>Sem ofensas ao Barry Allen,
+mas como heroína...</font>
+
+78
+00:05:07,157 --> 00:05:11,051
+<font color=#FFFF00>você era muito mais
+do que só uma velocista.</font>
+
+79
+00:05:11,053 --> 00:05:13,665
+<font color=#FFFF00>Imitou meus poderes
+e o brasão da minha família,</font>
+
+80
+00:05:13,667 --> 00:05:15,167
+<font color=#FFFF00>mas não o meu gênero?</font>
+
+81
+00:05:15,601 --> 00:05:18,997
+<font color=#FFFF00>- Tem medo de ser mulher?
+- Não tenho medo de nada.</font>
+
+82
+00:05:19,574 --> 00:05:22,022
+<font color=#FFFF00>O Livro do Destino revelou
+tudo o que se sabe</font>
+
+83
+00:05:22,024 --> 00:05:24,424
+<font color=#FFFF00>sobre Barry Allen
+e Oliver Queen,</font>
+
+84
+00:05:24,843 --> 00:05:28,992
+<font color=#FFFF00>mas sobre você e o Homem de Aço,
+não havia nada.</font>
+
+85
+00:05:29,231 --> 00:05:32,494
+<font color=#FFFF00>Nada além do androide
+que combateram em Central City.</font>
+
+86
+00:05:33,644 --> 00:05:36,241
+<font color=#FFFF00>É como se vocês
+não existissem neste mundo.</font>
+
+87
+00:05:36,243 --> 00:05:39,283
+<font color=#FFFF00>Por isso me prendeu
+e suprimiu meus poderes.</font>
+
+88
+00:05:39,285 --> 00:05:42,891
+<font color=#FFFF00>Não sei quem você é.
+Não sei como chegou aqui.</font>
+
+89
+00:05:42,893 --> 00:05:45,826
+<font color=#FFFF00>Mas nada disso importa,
+pois agora eu sou você.</font>
+
+90
+00:05:46,311 --> 00:05:47,874
+<font color=#FFFF00>Novo e melhorado.</font>
+
+91
+00:05:48,166 --> 00:05:52,263
+<font color=#FFFF00>E você nunca mais verá
+a luz do dia.</font>
+
+92
+00:05:52,861 --> 00:05:55,335
+<font color=#FFFF00>- Vou impedi-lo.
+- Não há nada a impedir.</font>
+
+93
+00:05:55,337 --> 00:05:58,860
+<font color=#FFFF00>Eu sou o herói
+que este planeta precisa!</font>
+
+94
+00:06:07,775 --> 00:06:09,604
+<font color=#FFFF00>Obrigado, agente Danvers.</font>
+
+95
+00:06:15,231 --> 00:06:17,534
+<font color=#FFFF00>As celas são monitoradas
+24h por dia,</font>
+
+96
+00:06:17,536 --> 00:06:20,850
+<font color=#FFFF00>então nem tente fazer nada</font>
+
+97
+00:06:20,852 --> 00:06:24,569
+<font color=#FFFF00>ou vai acabar
+se machucando bastante.</font>
+
+98
+00:06:24,583 --> 00:06:27,500
+<font color=#FFFF00>Você só sai daqui
+em um caixão.</font>
+
+99
+00:06:35,063 --> 00:06:37,638
+<font color=#FFFF00>Espere, Alex!</font>
+
+100
+00:06:40,204 --> 00:06:42,746
+<font color=#FFFF00>Você acha que conhece
+essa agente?</font>
+
+101
+00:06:42,748 --> 00:06:45,742
+<font color=#FFFF00>Eu mexi com a realidade de todos
+nesta Terra.</font>
+
+102
+00:06:45,744 --> 00:06:47,609
+<font color=#FFFF00>Ninguém é
+quem costumava ser.</font>
+
+103
+00:06:47,611 --> 00:06:50,864
+<font color=#FFFF00>Parece
+que até um destino reescrito</font>
+
+104
+00:06:50,866 --> 00:06:52,799
+<font color=#FFFF00>tem um senso de humor.</font>
+
+105
+00:06:54,036 --> 00:06:58,332
+<font color=#FFFF00>Seja uma prisioneira boazinha
+ou eu mato ela.</font>
+
+106
+00:06:58,949 --> 00:07:01,329
+<font color=#FFFF00>- Você é um monstro.
+- Não.</font>
+
+107
+00:07:02,395 --> 00:07:04,019
+<font color=#FFFF00>Eu sou o Superman.</font>
+
+108
+00:07:14,144 --> 00:07:17,548
+<font color=#FFFF00>Buscamos Cisco e vamos
+à Terra 38 achar o Superman.</font>
+
+109
+00:07:17,550 --> 00:07:20,305
+<font color=#FFFF00>- Esse é o plano.
+- Se Cisco quiser nos ajudar.</font>
+
+110
+00:07:20,307 --> 00:07:23,874
+<font color=#FFFF00>A última versão dele que conheci
+não era muito prestativa.</font>
+
+111
+00:07:24,614 --> 00:07:26,990
+<font color=#FFFF00>Quem sabe como ele foi reescrito
+dessa vez?</font>
+
+112
+00:07:32,037 --> 00:07:33,469
+<font color=#FFFF00>Senhores.</font>
+
+113
+00:07:36,750 --> 00:07:39,814
+<font color=#FFFF00>Está na hora de falarmos
+sobre os seus destinos.</font>
+
+114
+00:07:42,765 --> 00:07:47,050
+<font color=#FFFF00>Devo confessar,
+vocês despertaram meu interesse.</font>
+
+115
+00:07:47,054 --> 00:07:49,185
+<font color=#FFFF00>Mesmo sem poderes
+ou habilidades,</font>
+
+116
+00:07:49,187 --> 00:07:51,585
+<font color=#FFFF00>conseguiram superar
+um oponente</font>
+
+117
+00:07:51,587 --> 00:07:54,512
+<font color=#FFFF00>que tem os poderes
+de um super homem.</font>
+
+118
+00:07:54,526 --> 00:07:56,706
+<font color=#FFFF00>Nós o chamamos
+de "Superman".</font>
+
+119
+00:07:57,774 --> 00:07:59,358
+<font color=#FFFF00>O que é isso?</font>
+
+120
+00:08:00,151 --> 00:08:02,678
+<font color=#FFFF00>Se está nos testando,
+nos deixe voltar.</font>
+
+121
+00:08:02,680 --> 00:08:05,699
+<font color=#FFFF00>Oliver Queen,
+o homem que canaliza</font>
+
+122
+00:08:05,701 --> 00:08:08,739
+<font color=#FFFF00>insolência e raiva
+e as chama de "força".</font>
+
+123
+00:08:09,155 --> 00:08:12,009
+<font color=#FFFF00>Você realmente quer morrer?</font>
+
+124
+00:08:14,166 --> 00:08:16,897
+<font color=#FFFF00>Não, não quer.</font>
+
+125
+00:08:17,115 --> 00:08:18,706
+<font color=#FFFF00>Mas está disposto.</font>
+
+126
+00:08:19,707 --> 00:08:21,157
+<font color=#FFFF00>Está preparado.</font>
+
+127
+00:08:21,431 --> 00:08:22,858
+<font color=#FFFF00>Ótimo.</font>
+
+128
+00:08:22,860 --> 00:08:25,082
+<font color=#FFFF00>Pode haver esperança
+para este universo.</font>
+
+129
+00:08:25,120 --> 00:08:27,585
+<font color=#FFFF00>Se era para nos encorajar,
+não deu certo.</font>
+
+130
+00:08:27,587 --> 00:08:31,117
+<font color=#FFFF00>Sacrifício não é o suficiente
+para vencerem o teste.</font>
+
+131
+00:08:31,510 --> 00:08:35,065
+<font color=#FFFF00>Só sobreviverão se conhecerem
+seu verdadeiro eu,</font>
+
+132
+00:08:35,705 --> 00:08:37,989
+<font color=#FFFF00>ou este mundo
+estará condenado.</font>
+
+133
+00:08:39,384 --> 00:08:42,773
+<font color=#FFFF00>- Como todos os outros.
+- Certo, já basta.</font>
+
+134
+00:08:46,273 --> 00:08:49,551
+<font color=#FFFF00>- Isso foi bem pessimista.
+- Precisamos achar Cisco.</font>
+
+135
+00:08:49,553 --> 00:08:51,905
+<font color=#FFFF00>Se nós, os heróis,
+somos vilões,</font>
+
+136
+00:08:51,907 --> 00:08:55,791
+<font color=#FFFF00>então nosso amigo herói
+também deve ser um vilão.</font>
+
+137
+00:08:55,795 --> 00:08:58,533
+<font color=#FFFF00>Claro, você é da polícia
+de Central City.</font>
+
+138
+00:08:58,667 --> 00:09:00,600
+<font color=#FFFF00>Onde criminosos
+se encontram aqui?</font>
+
+139
+00:09:10,465 --> 00:09:13,454
+<font color=#FFFF00>- Estão com medo de nós?
+- Aproveite.</font>
+
+140
+00:09:13,461 --> 00:09:16,025
+<font color=#FFFF00>- É uma péssima ideia.
+- Você já disse isso.</font>
+
+141
+00:09:16,027 --> 00:09:18,009
+<font color=#FFFF00>E, ainda assim,
+aqui estamos nós.</font>
+
+142
+00:09:18,011 --> 00:09:20,406
+<font color=#FFFF00>Precisamos
+de aliados e recursos.</font>
+
+143
+00:09:22,295 --> 00:09:25,228
+<font color=#FFFF00>Meu Deus,
+os Gêmeos do Gatilho.</font>
+
+144
+00:09:26,222 --> 00:09:29,330
+<font color=#FFFF00>Desculpe, sou um grande fã
+do seu histórico criminal.</font>
+
+145
+00:09:29,923 --> 00:09:34,161
+<font color=#FFFF00>Vocês são meus heróis.
+Não heróis, mas lendas.</font>
+
+146
+00:09:34,163 --> 00:09:36,025
+<font color=#FFFF00>Querem alguma coisa?</font>
+
+147
+00:09:36,027 --> 00:09:38,429
+<font color=#FFFF00>Precisamos
+de aliados e recursos.</font>
+
+148
+00:09:40,556 --> 00:09:42,766
+<font color=#FFFF00>Estamos procurando
+por Cisco Ramon.</font>
+
+149
+00:09:43,424 --> 00:09:46,502
+<font color=#FFFF00>- O chefe?
+- Claro.</font>
+
+150
+00:10:04,509 --> 00:10:06,501
+<font color=#FFFF00>Bem, já é alguma coisa.</font>
+
+151
+00:10:10,890 --> 00:10:12,385
+<font color=#FFFF00>Alex.</font>
+
+152
+00:10:14,962 --> 00:10:18,924
+<font color=#FFFF00>- Como sabe meu nome?
+- Eu não sou desta Terra.</font>
+
+153
+00:10:20,003 --> 00:10:22,801
+<font color=#FFFF00>De onde eu venho,
+nós somos irmãs.</font>
+
+154
+00:10:23,931 --> 00:10:28,164
+<font color=#FFFF00>Você? Você não podia
+ser mais desprezível.</font>
+
+155
+00:10:28,985 --> 00:10:32,068
+<font color=#FFFF00>As histórias
+das coisas horríveis que fez...</font>
+
+156
+00:10:32,070 --> 00:10:35,697
+<font color=#FFFF00>Sei que as coisas parecem ruins,
+que eu pareço ruim,</font>
+
+157
+00:10:35,699 --> 00:10:39,313
+<font color=#FFFF00>mas o modo como as coisas estão
+não é real.</font>
+
+158
+00:10:39,450 --> 00:10:40,850
+<font color=#FFFF00>Não de verdade.</font>
+
+159
+00:10:40,855 --> 00:10:43,191
+<font color=#FFFF00>Se me deixar explicar,
+eu posso contar...</font>
+
+160
+00:10:43,193 --> 00:10:46,211
+<font color=#FFFF00>Você é perigosa
+e claramente louca.</font>
+
+161
+00:10:46,283 --> 00:10:47,683
+<font color=#FFFF00>Eu tenho que trabalhar.</font>
+
+162
+00:10:47,685 --> 00:10:52,080
+<font color=#FFFF00>Espere, deixe-me explicar.
+Posso te contar tudo!</font>
+
+163
+00:10:58,779 --> 00:11:00,277
+<font color=#FFFF00>Precisamos conversar.</font>
+
+164
+00:11:00,477 --> 00:11:02,839
+<font color=#FFFF00>Marquem hora
+com minha assistente.</font>
+
+165
+00:11:02,846 --> 00:11:06,326
+<font color=#FFFF00>Devo estar livre no horário
+"vão se ferrar".</font>
+
+166
+00:11:06,587 --> 00:11:09,810
+<font color=#FFFF00>Cisco,
+precisamos da sua ajuda.</font>
+
+167
+00:11:10,305 --> 00:11:11,705
+<font color=#FFFF00>Escutem.</font>
+
+168
+00:11:12,675 --> 00:11:14,673
+<font color=#FFFF00>Não sei
+quem vocês pensam que são.</font>
+
+169
+00:11:14,682 --> 00:11:17,973
+<font color=#FFFF00>Mas aqui as pessoas me chamam
+de "sr. Ramon".</font>
+
+170
+00:11:17,975 --> 00:11:20,114
+<font color=#FFFF00>Algum problema, sr. Ramon?</font>
+
+171
+00:11:21,068 --> 00:11:23,270
+<font color=#FFFF00>Estão vendo?</font>
+
+172
+00:11:23,351 --> 00:11:26,075
+<font color=#FFFF00>Jimmy,
+acho que os "Pet Shop Boys"</font>
+
+173
+00:11:26,077 --> 00:11:29,666
+<font color=#FFFF00>precisam de uma lição
+sobre como as coisas funcionam.</font>
+
+174
+00:11:29,668 --> 00:11:31,698
+<font color=#FFFF00>Acho que não será
+um problema.</font>
+
+175
+00:11:31,904 --> 00:11:34,647
+<font color=#FFFF00>Por isso me chamam
+de "pior amigo do Superman".</font>
+
+176
+00:11:39,465 --> 00:11:41,258
+<font color=#FFFF00>Não queremos problemas.</font>
+
+177
+00:11:41,260 --> 00:11:43,938
+<font color=#FFFF00>Temos uma proposta de negócios
+para o sr. Ramon.</font>
+
+178
+00:11:43,946 --> 00:11:47,175
+<font color=#FFFF00>Proposta de negócios?
+Não estou interessado.</font>
+
+179
+00:11:47,290 --> 00:11:52,273
+<font color=#FFFF00>Eu gosto de ver meu pessoal
+surrando outras pessoas.</font>
+
+180
+00:11:52,276 --> 00:11:54,301
+<font color=#FFFF00>Então temos algo em comum.</font>
+
+181
+00:11:54,493 --> 00:11:57,920
+<font color=#FFFF00>- Tem isso sob controle?
+- Totalmente.</font>
+
+182
+00:12:05,029 --> 00:12:07,448
+<font color=#FFFF00>É uma hora ruim
+para pedir uma selfie?</font>
+
+183
+00:12:09,741 --> 00:12:11,956
+<font color=#FFFF00>Parou!</font>
+
+184
+00:12:12,077 --> 00:12:14,134
+<font color=#FFFF00>Jimmy, o que está fazendo?</font>
+
+185
+00:12:14,136 --> 00:12:17,329
+<font color=#FFFF00>Vai matá-los aqui, agora?
+Gary ainda limpa sua bagunça</font>
+
+186
+00:12:17,331 --> 00:12:20,131
+<font color=#FFFF00>da última vez que bancou
+o "Laranja Mecânica".</font>
+
+187
+00:12:20,654 --> 00:12:22,518
+<font color=#FFFF00>Leve-os para o beco.</font>
+
+188
+00:12:23,444 --> 00:12:25,805
+<font color=#FFFF00>- Vamos indo!
+- Espere!</font>
+
+189
+00:12:25,807 --> 00:12:29,830
+<font color=#FFFF00>- Conheci seu irmão, Dante!
+- Parem, esperem.</font>
+
+190
+00:12:32,163 --> 00:12:35,630
+<font color=#FFFF00>- Como você conhece o Dante?
+- É uma longa história.</font>
+
+191
+00:12:36,051 --> 00:12:39,035
+<font color=#FFFF00>Se ele estivesse aqui,
+diria para ouvir nossa oferta.</font>
+
+192
+00:12:39,037 --> 00:12:40,767
+<font color=#FFFF00>Qual é a nossa oferta?</font>
+
+193
+00:12:42,250 --> 00:12:44,604
+<font color=#FFFF00>Gostaria de se livrar
+do Superman?</font>
+
+194
+00:12:46,708 --> 00:12:50,830
+<font color=#FFFF00>Tenho que cuidar do livro razão
+e fazer muitas coisas,</font>
+
+195
+00:12:50,882 --> 00:12:52,415
+<font color=#FFFF00>então desembuchem.</font>
+
+196
+00:12:52,417 --> 00:12:55,104
+<font color=#FFFF00>Mas antes temos que saber
+se pode vibrar.</font>
+
+197
+00:12:55,536 --> 00:12:58,164
+<font color=#FFFF00>- Se vibro?
+- Teletransportar, abrir fendas?</font>
+
+198
+00:12:58,166 --> 00:13:00,385
+<font color=#FFFF00>- Ainda faz isso?
+- Pergunta retórica.</font>
+
+199
+00:13:00,387 --> 00:13:03,382
+<font color=#FFFF00>Como acha que eu entrei
+naqueles cofres de bancos?</font>
+
+200
+00:13:05,296 --> 00:13:08,796
+<font color=#FFFF00>Mas vocês não sabiam disso.</font>
+
+201
+00:13:08,807 --> 00:13:12,378
+<font color=#FFFF00>Vieram até aqui sem saber
+se eu podia fazer o que achavam.</font>
+
+202
+00:13:12,380 --> 00:13:15,286
+<font color=#FFFF00>- Bem arriscado.
+- Foi desespero.</font>
+
+203
+00:13:15,288 --> 00:13:17,799
+<font color=#FFFF00>Deem mais motivos
+para não negociarmos.</font>
+
+204
+00:13:17,801 --> 00:13:20,384
+<font color=#FFFF00>Poderia usar seus poderes
+para muito mais</font>
+
+205
+00:13:20,386 --> 00:13:22,396
+<font color=#FFFF00>do que arrombar
+cofres de bancos.</font>
+
+206
+00:13:22,407 --> 00:13:25,615
+<font color=#FFFF00>Volte para a parte
+sobre derrubar o Superbabaca.</font>
+
+207
+00:13:25,617 --> 00:13:28,645
+<font color=#FFFF00>- É isso que quero ouvir.
+- Chegaremos lá.</font>
+
+208
+00:13:28,954 --> 00:13:31,448
+<font color=#FFFF00>Por enquanto,
+posso ensinar a usar os poderes</font>
+
+209
+00:13:31,450 --> 00:13:33,700
+<font color=#FFFF00>para ir a uma Terra
+bem diferente.</font>
+
+210
+00:13:34,565 --> 00:13:36,255
+<font color=#FFFF00>Uma Terra diferente.</font>
+
+211
+00:13:39,750 --> 00:13:41,331
+<font color=#FFFF00>Conte-me mais.</font>
+
+212
+00:13:41,333 --> 00:13:42,759
+<font color=#FFFF00>Danvers!</font>
+
+213
+00:13:43,301 --> 00:13:47,054
+<font color=#FFFF00>O chefão foi atrás
+de uma pista sobre os Gêmeos.</font>
+
+214
+00:13:47,506 --> 00:13:50,641
+<font color=#FFFF00>Sabe, Diggle pode monitorar
+as celas lá de cima.</font>
+
+215
+00:13:50,644 --> 00:13:52,728
+<font color=#FFFF00>- Por que não descansa?
+- Estou bem.</font>
+
+216
+00:13:52,730 --> 00:13:54,619
+<font color=#FFFF00>Ainda tenho trabalho a fazer.</font>
+
+217
+00:13:55,270 --> 00:13:58,134
+<font color=#FFFF00>É a terceira vez
+nas últimas semanas</font>
+
+218
+00:13:58,136 --> 00:14:01,651
+<font color=#FFFF00>que te mandei para casa
+e me recusou.</font>
+
+219
+00:14:01,703 --> 00:14:05,205
+<font color=#FFFF00>Esse desdém
+está me chateando.</font>
+
+220
+00:14:05,207 --> 00:14:08,141
+<font color=#FFFF00>Por que não quer ir embora?
+Problemas com o namorado?</font>
+
+221
+00:14:08,143 --> 00:14:11,529
+<font color=#FFFF00><i>- Não, não tenho namorado.</i>
+- Namorado?</font>
+
+222
+00:14:12,441 --> 00:14:14,752
+<font color=#FFFF00><i>Achei que estava</i>
+com aquele otário da TI.</font>
+
+223
+00:14:14,754 --> 00:14:17,685
+<font color=#FFFF00>- Nada impressionante.
+- Foram só alguns encontros.</font>
+
+224
+00:14:17,687 --> 00:14:20,740
+<font color=#FFFF00><i>E agora ele está saindo
+com a Pam do RH.</i></font>
+
+225
+00:14:20,942 --> 00:14:24,108
+<font color=#FFFF00>O rapaz tem um tipo.
+Também não me impressiona.</font>
+
+226
+00:14:24,282 --> 00:14:27,744
+<font color=#FFFF00>Você tem que sair daqui.
+Precisa viver.</font>
+
+227
+00:14:27,746 --> 00:14:31,225
+<font color=#FFFF00>Eu amo o que faço.
+O trabalho é importante.</font>
+
+228
+00:14:31,227 --> 00:14:33,160
+<font color=#FFFF00><i>Agora você parece
+o chefe falando.</i></font>
+
+229
+00:14:33,162 --> 00:14:36,711
+<font color=#FFFF00>Sabemos que isso
+não é um elogio.</font>
+
+230
+00:14:36,771 --> 00:14:39,803
+<font color=#FFFF00>Claro que o que fazemos
+pela cidade é ótimo,</font>
+
+231
+00:14:39,805 --> 00:14:43,841
+<font color=#FFFF00>mas metade do trabalho
+é só para sustentar o ego dele.</font>
+
+232
+00:14:44,462 --> 00:14:46,976
+<font color=#FFFF00>"Verdade, Justiça
+e estilo de vida americano"?</font>
+
+233
+00:14:46,978 --> 00:14:49,459
+<font color=#FFFF00>O mais puro egoísmo.</font>
+
+234
+00:14:51,056 --> 00:14:54,037
+<font color=#FFFF00>Só trabalho, sem diversão,
+não te deixa só tediosa,</font>
+
+235
+00:14:54,039 --> 00:14:55,863
+<font color=#FFFF00>faz teu coração virar gelo.</font>
+
+236
+00:14:56,224 --> 00:14:59,001
+<font color=#FFFF00>Acredite, não é divertido.</font>
+
+237
+00:15:00,144 --> 00:15:04,313
+<font color=#FFFF00>Agradeço a oferta,
+mas ficarei, como sempre.</font>
+
+238
+00:15:05,482 --> 00:15:07,183
+<font color=#FFFF00>Você que sabe.</font>
+
+239
+00:15:11,995 --> 00:15:13,993
+<font color=#FFFF00>O ÁRTICO - TERRA 38</font>
+
+240
+00:15:18,185 --> 00:15:22,049
+<font color=#FFFF00>- Ainda bem que estamos aqui!
+- Foram só 17 tentativas.</font>
+
+241
+00:15:22,051 --> 00:15:25,068
+<font color=#FFFF00>Vejo que é humorista.
+Adivinha, seu amigo é cômico.</font>
+
+242
+00:15:25,070 --> 00:15:27,007
+<font color=#FFFF00>- Ainda é o Barry?
+- Não, nós...</font>
+
+243
+00:15:27,009 --> 00:15:29,957
+<font color=#FFFF00>- Não...
+- Ótimo, tudo se acertou então.</font>
+
+244
+00:15:32,793 --> 00:15:34,316
+<font color=#FFFF00>Essa não.</font>
+
+245
+00:15:35,842 --> 00:15:37,937
+<font color=#FFFF00>- Kara?
+- Sr. Ramon.</font>
+
+246
+00:15:37,939 --> 00:15:40,109
+<font color=#FFFF00>Devo acreditar
+que esse é o Superman?</font>
+
+247
+00:15:40,111 --> 00:15:42,719
+<font color=#FFFF00>Pegaram ele na rua?
+Não é nem parecido.</font>
+
+248
+00:15:42,721 --> 00:15:44,687
+<font color=#FFFF00>O que é isto?</font>
+
+249
+00:15:47,591 --> 00:15:49,990
+<font color=#FFFF00>Você realmente
+não deveria tocar nisso.</font>
+
+250
+00:15:49,992 --> 00:15:52,459
+<font color=#FFFF00>Daria uma boa festa
+junto com uns bagulhos.</font>
+
+251
+00:15:52,461 --> 00:15:55,766
+<font color=#FFFF00>- Conheço um cara...
+- Tudo está normal de volta.</font>
+
+252
+00:15:55,768 --> 00:15:57,433
+<font color=#FFFF00>Bem, nem tudo.</font>
+
+253
+00:15:58,752 --> 00:16:00,170
+<font color=#FFFF00>Onde está Kara?</font>
+
+254
+00:16:08,055 --> 00:16:11,679
+<font color=#FFFF00>- Alex, pare, por favor!
+- Ele te avisou.</font>
+
+255
+00:16:11,682 --> 00:16:14,385
+<font color=#FFFF00>Prometo
+que não tentarei mais fugir.</font>
+
+256
+00:16:20,509 --> 00:16:22,050
+<font color=#FFFF00>Como sabe isso?</font>
+
+257
+00:16:23,942 --> 00:16:26,295
+<font color=#FFFF00>Alex Danvers me ensinou.</font>
+
+258
+00:16:31,352 --> 00:16:34,451
+<font color=#FFFF00>Eu te disse,
+não sou desta Terra.</font>
+
+259
+00:16:34,453 --> 00:16:38,242
+<font color=#FFFF00>A Alex da minha Terra
+passou um verão em Nagano,</font>
+
+260
+00:16:38,244 --> 00:16:40,777
+<font color=#FFFF00>com Jeremiah e Eliza,
+quando tinha seis anos.</font>
+
+261
+00:16:40,779 --> 00:16:42,578
+<font color=#FFFF00>Ela sentia saudade de casa.</font>
+
+262
+00:16:42,850 --> 00:16:44,682
+<font color=#FFFF00>E uma garota da vila</font>
+
+263
+00:16:44,691 --> 00:16:47,752
+<font color=#FFFF00>a ajudou a chegar
+em um dos templos uma noite.</font>
+
+264
+00:16:48,053 --> 00:16:50,420
+<font color=#FFFF00>Ela deixou um bilhete
+na fresta da parede,</font>
+
+265
+00:16:50,422 --> 00:16:52,154
+<font color=#FFFF00>esperando
+que virasse realidade.</font>
+
+266
+00:16:53,454 --> 00:16:56,092
+<font color=#FFFF00>Eu tinha sete anos,
+não seis.</font>
+
+267
+00:16:57,321 --> 00:17:01,894
+<font color=#FFFF00>E a garotinha da vila
+me ensinou aquela rima.</font>
+
+268
+00:17:02,606 --> 00:17:04,774
+<font color=#FFFF00>- Significa...
+- "Juro de dedinho".</font>
+
+269
+00:17:06,704 --> 00:17:08,571
+<font color=#FFFF00>Minha Alex me ensinou isso</font>
+
+270
+00:17:08,573 --> 00:17:11,424
+<font color=#FFFF00>na primeira noite
+que fugimos juntas para voar.</font>
+
+271
+00:17:14,962 --> 00:17:17,764
+<font color=#FFFF00>Minha Alex
+sempre gostou de servir.</font>
+
+272
+00:17:17,766 --> 00:17:19,950
+<font color=#FFFF00>Então não é surpresa</font>
+
+273
+00:17:19,952 --> 00:17:22,953
+<font color=#FFFF00>que se preocupe tanto assim</font>
+
+274
+00:17:23,054 --> 00:17:25,805
+<font color=#FFFF00>com este mundo
+e com as pessoas daqui.</font>
+
+275
+00:17:26,824 --> 00:17:31,283
+<font color=#FFFF00>Mas na minha Terra,
+Alex não só tem um emprego.</font>
+
+276
+00:17:31,780 --> 00:17:34,897
+<font color=#FFFF00>Ela comanda
+um lugar como este.</font>
+
+277
+00:17:36,577 --> 00:17:38,167
+<font color=#FFFF00>Ela comanda?</font>
+
+278
+00:17:40,287 --> 00:17:43,891
+<font color=#FFFF00>É uma líder justa e altiva.</font>
+
+279
+00:17:44,392 --> 00:17:47,313
+<font color=#FFFF00>Se alguém manda fazer algo
+que ela acha errado,</font>
+
+280
+00:17:47,611 --> 00:17:51,781
+<font color=#FFFF00>ela manda ir para o Inferno
+e faz o que é certo.</font>
+
+281
+00:17:53,053 --> 00:17:56,506
+<font color=#FFFF00>Ela não tem poderes
+como os meus,</font>
+
+282
+00:17:57,052 --> 00:17:58,551
+<font color=#FFFF00>mas é uma heroína.</font>
+
+283
+00:17:59,303 --> 00:18:01,578
+<font color=#FFFF00>E tem o maior coração
+que conheço,</font>
+
+284
+00:18:01,580 --> 00:18:04,453
+<font color=#FFFF00>mesmo que ela
+nem sempre goste de demonstrar.</font>
+
+285
+00:18:05,841 --> 00:18:07,765
+<font color=#FFFF00>Ela tem bons amigos.</font>
+
+286
+00:18:07,867 --> 00:18:12,051
+<font color=#FFFF00>Uma família de apoio
+que ela mesma criou.</font>
+
+287
+00:18:14,431 --> 00:18:17,851
+<font color=#FFFF00>E ela não esconde quem é.</font>
+
+288
+00:18:20,001 --> 00:18:24,251
+<font color=#FFFF00>Ela quer uma esposa.
+E filhos.</font>
+
+289
+00:18:25,551 --> 00:18:28,601
+<font color=#FFFF00>Está otimista
+sobre ter tudo isso.</font>
+
+290
+00:18:29,401 --> 00:18:33,051
+<font color=#FFFF00>Não é um "se",
+mas um "quando".</font>
+
+291
+00:18:35,121 --> 00:18:37,962
+<font color=#FFFF00>- Ela parece bem incrível.
+- Ela é.</font>
+
+292
+00:18:38,114 --> 00:18:40,614
+<font color=#FFFF00>Sei que não sou sua irmã
+neste planeta.</font>
+
+293
+00:18:40,616 --> 00:18:44,081
+<font color=#FFFF00>Acho que minha cápsula
+não pousou aqui, mas...</font>
+
+294
+00:18:46,451 --> 00:18:48,403
+<font color=#FFFF00>Você ainda é essa pessoa.</font>
+
+295
+00:18:49,601 --> 00:18:53,671
+<font color=#FFFF00>Posso dizer isso.
+Eu sei disso.</font>
+
+296
+00:18:54,801 --> 00:18:58,966
+<font color=#FFFF00>Superman reescreveu a realidade
+para que fôssemos prisioneiras.</font>
+
+297
+00:18:58,968 --> 00:19:02,021
+<font color=#FFFF00>Sei que é esperta o suficiente
+para ver além disso.</font>
+
+298
+00:19:05,911 --> 00:19:08,451
+<font color=#FFFF00>Se eu te libertasse
+da cela...</font>
+
+299
+00:19:09,351 --> 00:19:11,971
+<font color=#FFFF00>Faria o quê?
+Você o impediria?</font>
+
+300
+00:19:13,951 --> 00:19:15,566
+<font color=#FFFF00>Juro de dedinho.</font>
+
+301
+00:19:19,601 --> 00:19:23,307
+<font color=#FFFF00>Ele mudou toda a Central City.
+Talvez o mundo inteiro.</font>
+
+302
+00:19:23,309 --> 00:19:25,776
+<font color=#FFFF00>Pensam que ele é você,
+e que nós somos maus.</font>
+
+303
+00:19:25,778 --> 00:19:28,112
+<font color=#FFFF00>Mas eu sou mau.</font>
+
+304
+00:19:28,114 --> 00:19:30,814
+<font color=#FFFF00>Além disso,
+Kara desapareceu.</font>
+
+305
+00:19:30,816 --> 00:19:34,818
+<font color=#FFFF00>Se pegarmos o Livro,
+podemos reescrever a realidade.</font>
+
+306
+00:19:34,820 --> 00:19:36,453
+<font color=#FFFF00>Sério? E como fará isso?</font>
+
+307
+00:19:36,455 --> 00:19:39,924
+<font color=#FFFF00>Tem alguma caneta mágica
+nessas paredes de gelo?</font>
+
+308
+00:19:39,926 --> 00:19:41,992
+<font color=#FFFF00>Não precisa de caneta,
+só da mente.</font>
+
+309
+00:19:41,994 --> 00:19:43,622
+<font color=#FFFF00>Encontrei livros assim antes.</font>
+
+310
+00:19:43,624 --> 00:19:47,081
+<font color=#FFFF00>O autor escreve e cria coisas
+por mera força de vontade.</font>
+
+311
+00:19:47,333 --> 00:19:50,000
+<font color=#FFFF00>Mas mudar a história
+tem um preço.</font>
+
+312
+00:19:50,002 --> 00:19:52,102
+<font color=#FFFF00>Não têm ideia
+de onde o Livro está?</font>
+
+313
+00:19:52,104 --> 00:19:55,873
+<font color=#FFFF00>Eu guardaria em um lugar seguro
+até mesmo de um kryptoniano.</font>
+
+314
+00:19:55,875 --> 00:19:59,251
+<font color=#FFFF00>Fácil, STAR Labs.
+O lugar é todo trancado.</font>
+
+315
+00:19:59,545 --> 00:20:01,606
+<font color=#FFFF00>- Fui preso uma vez.
+- A gente também.</font>
+
+316
+00:20:01,608 --> 00:20:03,571
+<font color=#FFFF00>- Nós fomos presos.
+- O que fez?</font>
+
+317
+00:20:03,673 --> 00:20:06,708
+<font color=#FFFF00>Disse que podia me tocar?
+Disse que ele podia me tocar?</font>
+
+318
+00:20:06,710 --> 00:20:08,786
+<font color=#FFFF00>- Sei lá...
+- Não lembro dessa parte.</font>
+
+319
+00:20:09,088 --> 00:20:10,816
+<font color=#FFFF00>- Preciso ir.
+- Você precisa ir.</font>
+
+320
+00:20:16,751 --> 00:20:20,581
+<font color=#FFFF00>Ora, ora, ora.
+Há uma traidora entre nós.</font>
+
+321
+00:20:20,583 --> 00:20:23,426
+<font color=#FFFF00>Quando eu disse para arranjar
+um encontro, Danvers,</font>
+
+322
+00:20:23,428 --> 00:20:25,901
+<font color=#FFFF00>não foi nisso
+que eu pensei.</font>
+
+323
+00:20:26,970 --> 00:20:29,682
+<font color=#FFFF00>- Eu avisei.
+- Eu a enganei para me soltar.</font>
+
+324
+00:20:29,684 --> 00:20:33,505
+<font color=#FFFF00>- Não nos conhecemos.
+- Conhecemos, ela é minha irmã.</font>
+
+325
+00:20:36,051 --> 00:20:37,951
+<font color=#FFFF00>Então queimem juntas.</font>
+
+326
+00:20:39,883 --> 00:20:41,301
+<font color=#FFFF00>Olá.</font>
+
+327
+00:20:42,151 --> 00:20:43,686
+<font color=#FFFF00>Bela roupa.</font>
+
+328
+00:20:48,994 --> 00:20:51,718
+<font color=#FFFF00>Doutor,
+posso falar com você?</font>
+
+329
+00:20:53,368 --> 00:20:57,488
+<font color=#FFFF00>Essa é minha deixa, estou fora.
+Divirtam-se, moças!</font>
+
+330
+00:21:02,265 --> 00:21:04,568
+<font color=#FFFF00>- Vão atrás do Livro!
+- Beleza!</font>
+
+331
+00:21:06,836 --> 00:21:09,150
+<font color=#FFFF00>Alex, você está aqui!
+O que faz aqui?</font>
+
+332
+00:21:09,788 --> 00:21:11,608
+<font color=#FFFF00>Fodona
+em qualquer realidade!</font>
+
+333
+00:21:11,610 --> 00:21:13,723
+<font color=#FFFF00>Não, está tudo bem!
+Ele não é mau!</font>
+
+334
+00:21:13,725 --> 00:21:15,125
+<font color=#FFFF00>- Não?
+- Não, é de boa.</font>
+
+335
+00:21:15,127 --> 00:21:16,527
+<font color=#FFFF00>- Sou do bem.
+- Desculpe.</font>
+
+336
+00:21:16,529 --> 00:21:18,465
+<font color=#FFFF00>- É Fodona, beleza.
+- Sinto muito.</font>
+
+337
+00:21:18,467 --> 00:21:20,800
+<font color=#FFFF00>Tudo certo,
+mas onde Deegan...</font>
+
+338
+00:21:20,802 --> 00:21:22,936
+<font color=#FFFF00>Onde o Superman
+guardaria algo valioso?</font>
+
+339
+00:21:22,938 --> 00:21:26,406
+<font color=#FFFF00>Tudo de importante ele guarda
+na Fortaleza da Solidão.</font>
+
+340
+00:21:26,408 --> 00:21:27,941
+<font color=#FFFF00>Eu levo você até lá.</font>
+
+341
+00:21:27,943 --> 00:21:30,987
+<font color=#FFFF00>Eu acabei de vir
+da Fortaleza da Solidão.</font>
+
+342
+00:21:38,011 --> 00:21:39,611
+<font color=#FFFF00>POLÍCIA</font>
+
+343
+00:21:40,554 --> 00:21:42,703
+<font color=#FFFF00><i>Mayday!
+Perdemos o controle!</i></font>
+
+344
+00:21:42,705 --> 00:21:45,108
+<font color=#FFFF00><i>Não consigo segurar!
+Estamos caindo!</i></font>
+
+345
+00:22:14,904 --> 00:22:16,468
+<font color=#FFFF00><i>Bizarro!</i></font>
+
+346
+00:22:18,818 --> 00:22:20,418
+<font color=#FFFF00>Como se sente...</font>
+
+347
+00:22:20,868 --> 00:22:22,765
+<font color=#FFFF00>sendo o vilão dessa vez?</font>
+
+348
+00:22:31,118 --> 00:22:34,516
+<font color=#FFFF00>Não é a Fortaleza,
+é o Cofre do Tempo.</font>
+
+349
+00:22:35,925 --> 00:22:37,368
+<font color=#FFFF00>Está destrancado.</font>
+
+350
+00:22:42,988 --> 00:22:46,358
+<font color=#FFFF00>O que sabemos
+sobre reescrever a realidade?</font>
+
+351
+00:22:47,118 --> 00:22:48,917
+<font color=#FFFF00>Bem...</font>
+
+352
+00:22:56,062 --> 00:22:58,011
+<font color=#FFFF00>Deve estar fraca,
+por causa do tubo.</font>
+
+353
+00:22:58,013 --> 00:23:01,066
+<font color=#FFFF00>- Você está bem?
+- Não sei como Deegan fez isso.</font>
+
+354
+00:23:01,068 --> 00:23:04,636
+<font color=#FFFF00>Acho melhor descobrirmos
+tudo isso bem longe daqui.</font>
+
+355
+00:23:04,638 --> 00:23:07,258
+<font color=#FFFF00>- Clark saberá o que fazer.
+- Vou levar até ele.</font>
+
+356
+00:23:20,238 --> 00:23:21,818
+<font color=#FFFF00>Superman!</font>
+
+357
+00:23:28,261 --> 00:23:32,468
+<font color=#FFFF00>Clark, precisamos que abra.
+Conserte as coisas.</font>
+
+358
+00:24:24,517 --> 00:24:27,147
+<font color=#FFFF00>- Ele está conseguindo.
+- Está.</font>
+
+359
+00:24:40,534 --> 00:24:43,713
+<font color=#FFFF00>- Feche ou torço o pescoço dele!
+- Não!</font>
+
+360
+00:24:44,288 --> 00:24:46,113
+<font color=#FFFF00>Então seu amigo morre.</font>
+
+361
+00:24:48,408 --> 00:24:52,332
+<font color=#FFFF00>- Não se eu te matar primeiro.
+- Oliver, não! Não por mim.</font>
+
+362
+00:24:52,334 --> 00:24:55,592
+<font color=#FFFF00>Não precisa fazer isso.
+Não canalize sua escuridão.</font>
+
+363
+00:24:57,317 --> 00:25:01,240
+<font color=#FFFF00>Você pode dominá-la.
+Pode ser diferente, melhor.</font>
+
+364
+00:25:02,438 --> 00:25:06,437
+<font color=#FFFF00>Pode ser isso.
+Talvez seja o teste do Monitor.</font>
+
+365
+00:25:28,788 --> 00:25:30,517
+<font color=#FFFF00>Realmente
+se parece com ele.</font>
+
+366
+00:25:30,532 --> 00:25:32,824
+<font color=#FFFF00>Espero que seja aí
+que a semelhança acabe.</font>
+
+367
+00:25:32,827 --> 00:25:35,889
+<font color=#FFFF00>Ele reescreveu o mundo
+com aquele Livro?</font>
+
+368
+00:25:35,924 --> 00:25:38,766
+<font color=#FFFF00>- Ele reescreveu minha vida?
+- Pois é.</font>
+
+369
+00:25:39,282 --> 00:25:40,750
+<font color=#FFFF00>É engraçado.</font>
+
+370
+00:25:40,802 --> 00:25:43,213
+<font color=#FFFF00>Sinto como se eu sempre
+tivesse sido assim.</font>
+
+371
+00:25:43,738 --> 00:25:46,752
+<font color=#FFFF00>- Acho que todos sentem, certo?
+- Essa é você.</font>
+
+372
+00:25:46,841 --> 00:25:49,607
+<font color=#FFFF00>Alguém disposta a lutar
+pelo que é certo.</font>
+
+373
+00:25:50,061 --> 00:25:52,569
+<font color=#FFFF00>Quero dizer,
+depois que tudo isso acabar,</font>
+
+374
+00:25:52,572 --> 00:25:54,722
+<font color=#FFFF00>essa ainda será
+quem você é.</font>
+
+375
+00:25:55,682 --> 00:25:58,883
+<font color=#FFFF00>Sua irmã é uma mulher
+muito sortuda.</font>
+
+376
+00:26:00,403 --> 00:26:02,292
+<font color=#FFFF00>Eu sou uma irmã sortuda.</font>
+
+377
+00:26:04,541 --> 00:26:07,964
+<font color=#FFFF00>Vá, salve o mundo.</font>
+
+378
+00:26:16,603 --> 00:26:18,024
+<font color=#FFFF00>O que está acontecendo?</font>
+
+379
+00:26:18,455 --> 00:26:21,702
+<font color=#FFFF00>- Ele deve estar reescrevendo.
+- Ou destruindo a realidade.</font>
+
+380
+00:26:21,704 --> 00:26:26,318
+<font color=#FFFF00>Talvez tenha como atrasá-lo.
+Nós desaceleramos o tempo.</font>
+
+381
+00:26:26,664 --> 00:26:30,567
+<font color=#FFFF00>Deve ser a quarta coisa doida
+que escutaram nas últimas horas.</font>
+
+382
+00:26:30,569 --> 00:26:32,044
+<font color=#FFFF00>Como faríamos isso, Barry?</font>
+
+383
+00:26:32,046 --> 00:26:34,271
+<font color=#FFFF00>Se Supergirl e eu
+viajarmos pelo globo</font>
+
+384
+00:26:34,273 --> 00:26:36,573
+<font color=#FFFF00>em direções opostas
+acima de Mach 7,</font>
+
+385
+00:26:36,575 --> 00:26:40,793
+<font color=#FFFF00>devemos criar força centrífuga
+para desacelerar a rotação.</font>
+
+386
+00:26:40,795 --> 00:26:42,195
+<font color=#FFFF00>E todo o resto.</font>
+
+387
+00:26:42,197 --> 00:26:45,838
+<font color=#FFFF00>Tiramos o Livro de Deegan
+e tudo voltará ao normal.</font>
+
+388
+00:26:45,843 --> 00:26:47,291
+<font color=#FFFF00>Podemos fazer isso.</font>
+
+389
+00:26:48,434 --> 00:26:49,901
+<font color=#FFFF00>Ambos vão morrer.</font>
+
+390
+00:26:54,173 --> 00:26:55,787
+<font color=#FFFF00>Quando abri o Livro,</font>
+
+391
+00:26:55,789 --> 00:26:58,819
+<font color=#FFFF00>vi os dois morrendo
+ao fazerem exatamente isso.</font>
+
+392
+00:27:00,080 --> 00:27:02,547
+<font color=#FFFF00>- Se está no Livro...
+- É o destino.</font>
+
+393
+00:27:03,516 --> 00:27:06,593
+<font color=#FFFF00>- Acredito no Clark.
+- Precisamos tentar algo.</font>
+
+394
+00:27:08,037 --> 00:27:09,837
+<font color=#FFFF00>- Está pronto?
+- Estou.</font>
+
+395
+00:27:10,156 --> 00:27:11,563
+<font color=#FFFF00>Kara!</font>
+
+396
+00:27:14,127 --> 00:27:15,527
+<font color=#FFFF00>Aonde está indo?</font>
+
+397
+00:27:15,529 --> 00:27:19,299
+<font color=#FFFF00>Tenho uma ideia.
+Só... pegue o Livro.</font>
+
+398
+00:27:19,301 --> 00:27:20,821
+<font color=#FFFF00>E Barry e Kara?</font>
+
+399
+00:27:21,951 --> 00:27:24,476
+<font color=#FFFF00>Precisamos acreditar
+que o destino pode mudar.</font>
+
+400
+00:27:54,667 --> 00:27:56,068
+<font color=#FFFF00>Novu!</font>
+
+401
+00:27:57,270 --> 00:28:01,761
+<font color=#FFFF00>Sei que está aí, filho da puta!
+Não tenho medo de você!</font>
+
+402
+00:28:02,208 --> 00:28:04,522
+<font color=#FFFF00>Não estou impressionado
+com você!</font>
+
+403
+00:28:04,879 --> 00:28:07,928
+<font color=#FFFF00>Pare com esses joguinhos
+e apareça!</font>
+
+404
+00:28:13,086 --> 00:28:17,682
+<font color=#FFFF00>Tanta paixão.
+E arrogância.</font>
+
+405
+00:28:18,691 --> 00:28:20,277
+<font color=#FFFF00>Pensa...</font>
+
+406
+00:28:20,661 --> 00:28:24,613
+<font color=#FFFF00>que se gritar alto o bastante,
+pode mandar em um deus.</font>
+
+407
+00:28:24,732 --> 00:28:26,232
+<font color=#FFFF00>Você não é um deus.</font>
+
+408
+00:28:26,234 --> 00:28:30,926
+<font color=#FFFF00>Não há um nome para o que sou,
+então "deus" serve.</font>
+
+409
+00:28:31,621 --> 00:28:35,265
+<font color=#FFFF00>Seu tempo é limitado,
+não sei se o melhor é</font>
+
+410
+00:28:35,267 --> 00:28:37,997
+<font color=#FFFF00>desperdiçar o restante
+exigindo coisas de mim.</font>
+
+411
+00:28:37,999 --> 00:28:40,098
+<font color=#FFFF00>Já disse
+o que precisa ser feito.</font>
+
+412
+00:28:40,100 --> 00:28:42,499
+<font color=#FFFF00>Sei o que acontece
+com Barry e Kara.</font>
+
+413
+00:28:43,934 --> 00:28:46,911
+<font color=#FFFF00>E agora está aqui
+na esperança de que eu altere.</font>
+
+414
+00:28:46,921 --> 00:28:49,001
+<font color=#FFFF00>Você acabou de dizer
+que é um deus.</font>
+
+415
+00:28:49,006 --> 00:28:52,353
+<font color=#FFFF00>Não acho que esteja nos testando
+para ver se somos fortes!</font>
+
+416
+00:28:52,860 --> 00:28:56,251
+<font color=#FFFF00>Acho que está nos testando
+para ver se somos bons!</font>
+
+417
+00:28:56,629 --> 00:29:01,153
+<font color=#FFFF00>E não acho que em todos
+os universos que testou,</font>
+
+418
+00:29:01,158 --> 00:29:05,946
+<font color=#FFFF00>alguém tenha se levantado
+e te confrontado assim.</font>
+
+419
+00:29:05,981 --> 00:29:09,697
+<font color=#FFFF00>Sim, você foi o primeiro
+na multidão.</font>
+
+420
+00:29:09,699 --> 00:29:11,713
+<font color=#FFFF00>Não sou eu
+quem você precisa!</font>
+
+421
+00:29:12,529 --> 00:29:15,725
+<font color=#FFFF00>Disse que eu passaria
+se conhecesse meu eu verdadeiro.</font>
+
+422
+00:29:17,817 --> 00:29:20,480
+<font color=#FFFF00>Meu eu verdadeiro
+está cheio de escuridão.</font>
+
+423
+00:29:21,354 --> 00:29:25,214
+<font color=#FFFF00>Mas Barry e Kara
+são diferentes.</font>
+
+424
+00:29:25,925 --> 00:29:27,835
+<font color=#FFFF00>Eles inspiram esperança,</font>
+
+425
+00:29:27,870 --> 00:29:31,059
+<font color=#FFFF00>eles inspiram as pessoas,
+por serem o melhor de nós.</font>
+
+426
+00:29:31,064 --> 00:29:33,006
+<font color=#FFFF00>E se esse teste seu</font>
+
+427
+00:29:33,041 --> 00:29:36,330
+<font color=#FFFF00>matará nossa melhor chance
+de deter essa crise...</font>
+
+428
+00:29:41,107 --> 00:29:43,027
+<font color=#FFFF00>Bem, para uma divindade,</font>
+
+429
+00:29:44,410 --> 00:29:46,288
+<font color=#FFFF00>não é muito esperto.</font>
+
+430
+00:29:47,147 --> 00:29:50,016
+<font color=#FFFF00>O universo é um pedaço complexo
+de maquinários,</font>
+
+431
+00:29:50,051 --> 00:29:52,580
+<font color=#FFFF00>e o equilíbrio
+deve ser mantido.</font>
+
+432
+00:29:53,352 --> 00:29:55,507
+<font color=#FFFF00>Uma mudança requer outra.</font>
+
+433
+00:29:56,956 --> 00:30:00,248
+<font color=#FFFF00>O que propõe
+para manter o equilíbrio?</font>
+
+434
+00:30:34,788 --> 00:30:38,403
+<font color=#FFFF00>Não pode usar o símbolo no peito
+e se chamar de herói, Deegan.</font>
+
+435
+00:30:38,428 --> 00:30:40,498
+<font color=#FFFF00>Nossos poderes amplificam
+quem somos.</font>
+
+436
+00:30:40,523 --> 00:30:42,743
+<font color=#FFFF00>E o modo
+como está usando os seus,</font>
+
+437
+00:30:43,448 --> 00:30:45,123
+<font color=#FFFF00>mostra que não tem fibra.</font>
+
+438
+00:30:45,148 --> 00:30:49,028
+<font color=#FFFF00>Não, você está errado.
+Eu não pensei grande o bastante!</font>
+
+439
+00:30:50,028 --> 00:30:52,153
+<font color=#FFFF00>Não vou cometer
+esse erro de novo.</font>
+
+440
+00:31:01,618 --> 00:31:04,633
+<font color=#FFFF00>Viu?
+Não há como me derrotar!</font>
+
+441
+00:31:04,658 --> 00:31:09,588
+<font color=#FFFF00>Eu sou o mestre
+deste mundo!</font>
+
+442
+00:31:10,748 --> 00:31:13,363
+<font color=#FFFF00>Blá-blá-blá.
+Isso é um exagero, não acha?</font>
+
+443
+00:31:13,388 --> 00:31:16,568
+<font color=#FFFF00>- Amor?
+- Sim, querido?</font>
+
+444
+00:31:17,298 --> 00:31:19,568
+<font color=#FFFF00>Um robô enorme...</font>
+
+445
+00:31:23,548 --> 00:31:25,973
+<font color=#FFFF00>com os poderes do Superman.</font>
+
+446
+00:31:26,398 --> 00:31:31,213
+<font color=#FFFF00>Isso é animador.
+Obrigado por me incluir nisso.</font>
+
+447
+00:31:43,548 --> 00:31:46,488
+<font color=#FFFF00>Vou proteger os civis.
+Encerre isso.</font>
+
+448
+00:31:53,498 --> 00:31:55,473
+<font color=#FFFF00>- É o fim, Deegan.
+- Não!</font>
+
+449
+00:31:55,498 --> 00:31:59,348
+<font color=#FFFF00>- Eu que decido quando acaba!
+- Gosto mais de você em azul.</font>
+
+450
+00:32:28,348 --> 00:32:29,748
+<font color=#FFFF00>Louis.</font>
+
+451
+00:33:36,352 --> 00:33:38,222
+<font color=#FFFF00>Falei que você me pegaria.</font>
+
+452
+00:34:13,422 --> 00:34:15,292
+<font color=#FFFF00>Barry e Kara...</font>
+
+453
+00:34:17,625 --> 00:34:19,075
+<font color=#FFFF00>Acreditou mais do que eu.</font>
+
+454
+00:34:19,077 --> 00:34:21,312
+<font color=#FFFF00>Não conheço Kara
+tão bem quanto ao Barry,</font>
+
+455
+00:34:22,062 --> 00:34:24,507
+<font color=#FFFF00>mas em momentos difíceis,
+ele não desacelera.</font>
+
+456
+00:34:25,622 --> 00:34:27,742
+<font color=#FFFF00>Ele mergulha fundo
+e corre mais rápido.</font>
+
+457
+00:34:28,182 --> 00:34:30,257
+<font color=#FFFF00>Minha prima
+é exatamente assim.</font>
+
+458
+00:34:35,272 --> 00:34:37,492
+<font color=#FFFF00>Então você sabe
+por que acreditei neles.</font>
+
+459
+00:34:41,592 --> 00:34:44,777
+<font color=#FFFF00>O livro diz alguma coisa
+sobre o que fazer com isto?</font>
+
+460
+00:34:45,062 --> 00:34:47,162
+<font color=#FFFF00>É a placa-mãe do Amazo.</font>
+
+461
+00:34:57,812 --> 00:35:00,162
+<font color=#FFFF00>Está se tornando
+um evento anual.</font>
+
+462
+00:35:00,187 --> 00:35:01,872
+<font color=#FFFF00>Deus, espero que não.</font>
+
+463
+00:35:02,067 --> 00:35:05,420
+<font color=#FFFF00>Isso é um...
+Você está sorrindo?</font>
+
+464
+00:35:05,422 --> 00:35:09,182
+<font color=#FFFF00>Eu meio que gosto de vocês.
+Não contem a ninguém.</font>
+
+465
+00:35:09,752 --> 00:35:11,502
+<font color=#FFFF00>Espero revê-los em breve.</font>
+
+466
+00:35:11,507 --> 00:35:14,828
+<font color=#FFFF00>De preferência, sem Louis ter
+motivo para se jogar no perigo.</font>
+
+467
+00:35:14,830 --> 00:35:19,117
+<font color=#FFFF00>- Eu me jogo com você, amor.
+- Cisco, você faz as honras?</font>
+
+468
+00:35:19,122 --> 00:35:21,192
+<font color=#FFFF00>Tudo pela minha kryptoniana
+favorita.</font>
+
+469
+00:35:21,197 --> 00:35:23,922
+<font color=#FFFF00>Isso mesmo, eu tenho
+uma kryptoniana favorita.</font>
+
+470
+00:35:24,042 --> 00:35:26,622
+<font color=#FFFF00>Uma boa escolha.</font>
+
+471
+00:35:31,592 --> 00:35:33,357
+<font color=#FFFF00>Até a próxima.</font>
+
+472
+00:35:33,692 --> 00:35:36,752
+<font color=#FFFF00>Paz,
+da sua kryptoniana favorita.</font>
+
+473
+00:35:40,822 --> 00:35:43,022
+<font color=#FFFF00>SMALLVILLE - TERRA 38</font>
+
+474
+00:35:43,092 --> 00:35:45,982
+<font color=#FFFF00>Você trabalhou tanto
+enquanto estive fora.</font>
+
+475
+00:35:45,987 --> 00:35:47,997
+<font color=#FFFF00>- Este lugar está incrível.
+- É...</font>
+
+476
+00:35:48,022 --> 00:35:50,367
+<font color=#FFFF00>Queria deixar ajeitado
+para minha mãe.</font>
+
+477
+00:35:53,302 --> 00:35:56,627
+<font color=#FFFF00>Brainy e J'onn voltaram
+para National City?</font>
+
+478
+00:35:56,652 --> 00:35:58,272
+<font color=#FFFF00>O dever os chama.</font>
+
+479
+00:36:00,372 --> 00:36:02,237
+<font color=#FFFF00>Espero que você perceba</font>
+
+480
+00:36:02,272 --> 00:36:05,797
+<font color=#FFFF00>que fazer parte do DOE
+ou não fazer parte do DOE...</font>
+
+481
+00:36:05,872 --> 00:36:08,942
+<font color=#FFFF00>Você não precisa da organização
+para proteger o mundo.</font>
+
+482
+00:36:08,967 --> 00:36:10,997
+<font color=#FFFF00>E, não importa o universo,</font>
+
+483
+00:36:11,022 --> 00:36:14,142
+<font color=#FFFF00>você e a Alex encontrarão
+um jeito de se apoiarem.</font>
+
+484
+00:36:14,147 --> 00:36:15,952
+<font color=#FFFF00>É, você está certo.</font>
+
+485
+00:36:16,974 --> 00:36:19,594
+<font color=#FFFF00>Você realmente é
+bem mais forte do que eu, Kara.</font>
+
+486
+00:36:19,596 --> 00:36:21,929
+<font color=#FFFF00>Toda vez que estamos juntos,
+eu vejo isso.</font>
+
+487
+00:36:21,931 --> 00:36:25,565
+<font color=#FFFF00>É por isso que sei
+que tudo bem fazer o que farei.</font>
+
+488
+00:36:25,967 --> 00:36:28,402
+<font color=#FFFF00>O que você fará, Clark?</font>
+
+489
+00:36:28,404 --> 00:36:31,138
+<font color=#FFFF00>Você precisa
+parar de enrolar.</font>
+
+490
+00:36:31,140 --> 00:36:34,407
+<font color=#FFFF00>Pessoas gostam
+de pessoas que são diretas.</font>
+
+491
+00:36:35,272 --> 00:36:36,672
+<font color=#FFFF00>O que está acontecendo?</font>
+
+492
+00:36:36,674 --> 00:36:38,863
+<font color=#FFFF00>Falei que nos divertimos
+em Argo...</font>
+
+493
+00:36:38,865 --> 00:36:41,614
+<font color=#FFFF00>- Louis...
+- Nós todos somos adultos.</font>
+
+494
+00:36:43,451 --> 00:36:45,251
+<font color=#FFFF00>Vocês vão ter um bebê?</font>
+
+495
+00:36:46,573 --> 00:36:50,073
+<font color=#FFFF00>Meu Deus! Sim!</font>
+
+496
+00:36:50,075 --> 00:36:53,994
+<font color=#FFFF00>Parabéns! Isso é ótimo!
+Estou muito feliz por vocês.</font>
+
+497
+00:36:53,996 --> 00:36:57,798
+<font color=#FFFF00>O lugar mais seguro
+para a Louis estar é em Argo.</font>
+
+498
+00:36:57,800 --> 00:37:01,428
+<font color=#FFFF00>- Quando o bebê começar chutar.
+- Isso seria horrível.</font>
+
+499
+00:37:03,304 --> 00:37:05,955
+<font color=#FFFF00>Você se afastará
+por mais 9 meses?</font>
+
+500
+00:37:07,309 --> 00:37:09,542
+<font color=#FFFF00>Um pouco mais do que isso.</font>
+
+501
+00:37:10,044 --> 00:37:12,096
+<font color=#FFFF00>Essa batalha...</font>
+
+502
+00:37:12,248 --> 00:37:15,267
+<font color=#FFFF00>lembrou-me
+de tudo que posso perder.</font>
+
+503
+00:37:16,418 --> 00:37:18,569
+<font color=#FFFF00>Mas a única razão
+para eu ficar seguro</font>
+
+504
+00:37:18,571 --> 00:37:20,605
+<font color=#FFFF00>em pendurar a capa
+por um tempo...</font>
+
+505
+00:37:20,607 --> 00:37:22,277
+<font color=#FFFF00>é você.</font>
+
+506
+00:37:22,459 --> 00:37:25,481
+<font color=#FFFF00>O mundo não precisa do Superman
+tendo a Supergirl.</font>
+
+507
+00:37:26,043 --> 00:37:28,396
+<font color=#FFFF00>Na verdade, provavelmente
+será mais seguro.</font>
+
+508
+00:37:28,398 --> 00:37:29,855
+<font color=#FFFF00>Um estudo feito em Harvard</font>
+
+509
+00:37:29,857 --> 00:37:32,986
+<font color=#FFFF00>disse que mulheres respondem
+melhor que homens à pressão.</font>
+
+510
+00:37:32,988 --> 00:37:34,802
+<font color=#FFFF00>Nós somos melhores
+em uma crise.</font>
+
+511
+00:37:34,804 --> 00:37:38,038
+<font color=#FFFF00>Mais aptas a perguntar
+antes de dar o soco.</font>
+
+512
+00:37:38,639 --> 00:37:41,341
+<font color=#FFFF00>Não que você não seja
+totalmente fantástico.</font>
+
+513
+00:37:42,144 --> 00:37:46,279
+<font color=#FFFF00>Resumindo,
+o mundo está seguro com você.</font>
+
+514
+00:37:47,531 --> 00:37:49,632
+<font color=#FFFF00>Sentirei falta de vocês.</font>
+
+515
+00:37:54,769 --> 00:37:57,494
+<font color=#FFFF00>ALIENÍGENAS DE NATIONAL CITY
+- O mundo ficaria bem</font>
+
+516
+00:37:57,496 --> 00:38:01,552
+<font color=#FFFF00>tendo só a Kara Danvers,
+sua prima não é ruim...</font>
+
+517
+00:38:01,554 --> 00:38:03,698
+<font color=#FFFF00>- Clark?
+- O quê?</font>
+
+518
+00:38:03,700 --> 00:38:06,200
+<font color=#FFFF00>- Está queimando.
+- Não, não...</font>
+
+519
+00:38:07,403 --> 00:38:09,456
+<font color=#FFFF00>Na próxima vez,
+use a visão de calor.</font>
+
+520
+00:38:09,458 --> 00:38:12,602
+<font color=#FFFF00>Você está certa.
+Desculpe...</font>
+
+521
+00:38:13,308 --> 00:38:16,644
+<font color=#FFFF00>- Queria uma noite especial.
+- Por quê?</font>
+
+522
+00:38:16,945 --> 00:38:19,178
+<font color=#FFFF00>Quero que toda noite
+seja especial.</font>
+
+523
+00:38:19,630 --> 00:38:23,701
+<font color=#FFFF00>Quero dizer, com você.
+Mas também especial...</font>
+
+524
+00:38:24,265 --> 00:38:26,751
+<font color=#FFFF00>para sempre... com você.</font>
+
+525
+00:38:26,753 --> 00:38:29,190
+<font color=#FFFF00>Eu sou muito ruim nisso.</font>
+
+526
+00:38:29,542 --> 00:38:33,008
+<font color=#FFFF00>O que eu te disse em Kansas?
+Seja direto.</font>
+
+527
+00:39:01,689 --> 00:39:03,189
+<font color=#FFFF00>Louis Lane...</font>
+
+528
+00:39:05,731 --> 00:39:07,628
+<font color=#FFFF00>- Eu só precisava dizer isso?
+- Só.</font>
+
+529
+00:39:07,630 --> 00:39:09,413
+<font color=#FFFF00>Gostei dessa coisa
+de ser direto.</font>
+
+530
+00:39:11,868 --> 00:39:13,816
+<font color=#FFFF00>CENTRAL CITY - TERRA 1</font>
+
+531
+00:39:16,538 --> 00:39:19,306
+<font color=#FFFF00>É bom poder sentir
+os efeitos do álcool novamente.</font>
+
+532
+00:39:19,308 --> 00:39:23,678
+<font color=#FFFF00>Super velocidade
+tem vantagens e desvantagens.</font>
+
+533
+00:39:23,730 --> 00:39:27,480
+<font color=#FFFF00>Sempre com fome.
+Fazendo buracos nos sapatos.</font>
+
+534
+00:39:27,582 --> 00:39:29,799
+<font color=#FFFF00>Você não sentirá falta
+de nada?</font>
+
+535
+00:39:30,051 --> 00:39:34,689
+<font color=#FFFF00>Houve alguns momentos
+em que eu corria tão rápido,</font>
+
+536
+00:39:34,691 --> 00:39:38,624
+<font color=#FFFF00>que parecia
+que as coisas estavam paradas...</font>
+
+537
+00:39:39,393 --> 00:39:42,295
+<font color=#FFFF00>Tudo parecia
+realmente claro para mim.</font>
+
+538
+00:39:43,064 --> 00:39:45,663
+<font color=#FFFF00>- Sentirei falta disso.
+- Flashtime.</font>
+
+539
+00:39:45,665 --> 00:39:47,976
+<font color=#FFFF00>- O quê?
+- É como eu chamo isso.</font>
+
+540
+00:39:47,978 --> 00:39:50,203
+<font color=#FFFF00>Você tem um nome para tudo.</font>
+
+541
+00:39:51,739 --> 00:39:55,575
+<font color=#FFFF00>Sinto que eu deveria
+te agradecer por algo.</font>
+
+542
+00:39:57,061 --> 00:40:00,981
+<font color=#FFFF00>O Monitor.
+Você conversou com ele, não foi?</font>
+
+543
+00:40:01,283 --> 00:40:03,917
+<font color=#FFFF00>Fez ele mudar nossos destinos
+de alguma forma.</font>
+
+544
+00:40:03,919 --> 00:40:06,153
+<font color=#FFFF00>Você e Kara mudaram
+seus destinos, Barry,</font>
+
+545
+00:40:06,155 --> 00:40:09,822
+<font color=#FFFF00>sendo os heróis
+que sempre foram.</font>
+
+546
+00:40:12,825 --> 00:40:16,846
+<font color=#FFFF00>Eu era você,
+eu vivi isso, eu senti.</font>
+
+547
+00:40:17,998 --> 00:40:21,953
+<font color=#FFFF00>- Você é um homem bom.
+- Você também é.</font>
+
+548
+00:40:22,205 --> 00:40:24,537
+<font color=#FFFF00>Mesmo não querendo
+que acreditem.</font>
+
+549
+00:40:24,539 --> 00:40:28,958
+<font color=#FFFF00>Não sou tão bom quanto pensa.
+Mas por causa de você...</font>
+
+550
+00:40:30,328 --> 00:40:32,628
+<font color=#FFFF00>penso que chegarei lá
+algum dia.</font>
+
+551
+00:40:35,833 --> 00:40:38,502
+<font color=#FFFF00>- Deveríamos nos abraçar?
+- Não, não.</font>
+
+552
+00:40:38,504 --> 00:40:42,572
+<font color=#FFFF00>Dessa vez é verdade.
+Você me abraçou duas vezes.</font>
+
+553
+00:40:42,624 --> 00:40:45,693
+<font color=#FFFF00>- Não. Falo sério.
+- Beleza.</font>
+
+554
+00:40:46,940 --> 00:40:49,178
+<font color=#FFFF00>Proponho um brinde.</font>
+
+555
+00:40:50,898 --> 00:40:53,232
+<font color=#FFFF00>Agradecer pelo que temos...</font>
+
+556
+00:40:55,469 --> 00:40:57,620
+<font color=#FFFF00>pelo tempo que nos reste.</font>
+
+557
+00:41:05,479 --> 00:41:06,880
+<font color=#FFFF00>Com licença.</font>
+
+558
+00:41:10,518 --> 00:41:14,186
+<font color=#FFFF00>- Achei que terminou conosco.
+- Pensamento ansioso.</font>
+
+559
+00:41:15,589 --> 00:41:17,858
+<font color=#FFFF00>Acabei de vir de Arkham.</font>
+
+560
+00:41:17,860 --> 00:41:21,395
+<font color=#FFFF00>Diga-me que aquele seu doutor
+não será um grande problema.</font>
+
+561
+00:41:21,397 --> 00:41:25,748
+<font color=#FFFF00>- Deegan? Por quê?
+- Porque ouvi que fez um amigo.</font>
+
+562
+00:41:29,888 --> 00:41:32,310
+<font color=#FFFF00>Não se preocupe, doutor.</font>
+
+563
+00:41:32,662 --> 00:41:35,924
+<font color=#FFFF00>Tudo está
+como deveria estar.</font>
+
+564
+00:41:36,076 --> 00:41:38,877
+<font color=#FFFF00>O palco está montado.</font>
+
+565
+00:41:39,063 --> 00:41:41,463
+<font color=#FFFF00>Mundos viverão.</font>
+
+566
+00:41:41,882 --> 00:41:45,117
+<font color=#FFFF00>Mundos morrerão.</font>
+
+567
+00:41:46,320 --> 00:41:50,717
+<font color=#FFFF00>E o universo
+nunca mais será o mesmo.</font>
+
+568
+00:41:50,742 --> 00:41:52,142
+<font color=#FFFF00><b>www.maniacs.ga</b></font>
+
+569
+00:41:52,144 --> 00:41:54,944
+<font color=#FFFF00>CHEGA EM 2019:</font>
+
+570
+00:41:55,746 --> 00:41:57,946
+<font color=#FFFF00>"CRISE NAS INFINITAS TERRAS"</font>
+
