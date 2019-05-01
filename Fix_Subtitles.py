@@ -1,18 +1,32 @@
 #Fix Subtitles
 
 # Asking for the essential inputs
-first = int(input('First Part(number): '))
-last = int(input('Last Part(number): '))
 subtitle = input('Subtitle:\n')
-choice = input('Add or Remove Seconds? [+/-]\n')
+
+first = input('First Part(number): ')
+while first.isnumeric() == False:
+    first = input('First Part(number): ')
+first = int(first)
+
+last = input('Last Part(number): ')
+while last.isnumeric() == False:
+    last = input('Last Part(number): ')
+last = int(last)
+
+color = input('Yellow or White Subtitles? [\033[33mY\033[m/\033[37mW\033[m]\n').upper()
+while 'Y' != color != 'W':
+    print('\n\033[31mtype a valid color\033[m("\033[33mY\033[m" for Yellow and "\033[37mW\033[m" for White)\033[m')
+    color = input('Yellow or White Subtitles? [\033[33mY\033[m/\033[37mW\033[m]\n').upper()
+    
+choice = input('Add or Remove Seconds? [\033[36m+\033[m/\033[31m-\033[m]\n')
 while '+' != choice != '-':
-    print('\nr4\033[31mtype a valid choice\033[m')
-    choice = input('Add or Remove Seconds? [+/-]')
+    print('\n\033[31mtype a valid choice\033[m("\033[36m+\033[m" to Add and "\033[31m-\033[m" to Remove)')
+    choice = input('Add or Remove Seconds? [\033[36m+\033[m/\033[31m-\033[m]\n')
 if choice == '-':
     seconds_to_edit = 0 - int(input('Seconds to Remove: '))
 elif choice == '+':
     seconds_to_edit = int(input('Seconds to Add: '))
-
+    
 # Preprocessing Subtitle
 subtitle = subtitle.split(sep = '\n')
 index = 0
@@ -27,6 +41,8 @@ for line in subtitle:
 for lst in block:
     if len(lst) < 3:
         block.remove(lst)
+    if lst[-1] != '':
+        lst.append('')
 
 del block[last:]
 del block[:first - 1]
@@ -49,10 +65,16 @@ for lst in block:
     sec_i = f'{(time_i - int(hour_i) * 3600 - int(min_i) * 60):.3f}'
     hour_f, min_f = str(int(time_f // 3600)), str(int((time_f - (time_f // 3600) * 3600) // 60))
     sec_f = f'{(time_f - int(hour_f) * 3600 - int(min_f) * 60):.3f}'
-    # Fitting time back into the right format 'hh:mm:ss,s'
+    # Fitting time back into the right format 'hh:mm:ss,s --> hh:mm:ss,s'
     time_i = f'{hour_i if len(hour_i) > 1 else "0" + hour_i}:{min_i if len(min_i) > 1 else "0" + min_i}:{sec_i if len(sec_i) > 5 else "0" + sec_i}'.replace('.', ',')
     time_f = f'{hour_f if len(hour_f) > 1 else "0" + hour_f}:{min_f if len(min_f) > 1 else "0" + min_f}:{sec_f if len(sec_f) > 5 else "0" + sec_f}'.replace('.', ',')
-    # Implementing Changes
     lst[1] = f'{time_i} {arrow} {time_f}'
+    #Changing Colors
+    lst[2] = lst[2].replace('<font color=#FFFF00>', '')
+    lst[-2] = lst[-2].replace('</font>', '')
+    if color == 'Y':
+        lst[2] = '<font color=#FFFF00>' + lst[2]
+        lst[-2] += '</font>'
+    #Implementing Changes
     for i in lst:
         fixed_subtitle += i + '\n'
