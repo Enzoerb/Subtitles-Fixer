@@ -1,5 +1,6 @@
 from fixer_service import FixerService
 
+
 class FixerController:
 
     pass
